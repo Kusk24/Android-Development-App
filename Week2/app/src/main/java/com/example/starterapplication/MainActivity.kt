@@ -122,7 +122,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
                 text3++
                 currentnum--
             }) {
-                Text("increase")
+                Text("ncrease")
             }
             Button(onClick = {
                 text3--

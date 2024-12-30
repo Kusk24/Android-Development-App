@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.RecapExercise" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Exercise1" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.App" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
