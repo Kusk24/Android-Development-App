@@ -6,4 +6,4 @@ import kotlinx.serialization.Serializable
 data class ApiWrapper (
     val info: Info,
     val results: List<CharacterResult>
-    )
+)
