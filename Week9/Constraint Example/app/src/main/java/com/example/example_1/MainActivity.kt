@@ -292,7 +292,7 @@ fun Exercise3_ChainSpread(modifier : Modifier){
                 width = Dimension.fillToConstraints
                 top.linkTo(weightedTitle.bottom)
             })
-        
+
         // Packed
         Text(text = "Packed",
             modifier = modifier.constrainAs(packedTitle) {
